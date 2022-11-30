@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "module": "System", // AMD, system, UMD,...
+    "target": "es6", // phiên bản js sẽ được biên dịchx
+    "rootDir":"./", // thư mục chứa các file ts
+    "outDir": "./dist", // thư mục chứa các file js đã biên
+    "removeComments": true, // loại bỏ các dòng chú thích
+
+  }
+}
