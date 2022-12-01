@@ -56,3 +56,4 @@ const adapter = new fileAdapter();
 const contactApp = new ContactApp(adapter);
 
 contactApp.render();
+
